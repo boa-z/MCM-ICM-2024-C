@@ -1,0 +1,10 @@
+{
+    "origin_data_path": "data/Wimbledon_featured_matches.csv",
+    "lr_v1_data_path": "data/Wimbledon_featured_matches/Standard_Training_Data_Wimbledon_featured_matches_match_id.csv",
+    "lr_v2_data_path": "data/Wimbledon_featured_matches/Wimbledon_featured_matches_edit.csv",
+    "rf_data_path": "data/Wimbledon_featured_matches/Standard_Training_Data_Wimbledon_featured_matches_turning_points.csv",
+    "rf_result_data_path": "data/Wimbledon_featured_matches/Standard_Training_Data_Wimbledon_featured_matches_match_id_pred.csv",
+    "player_in_match": "data/Wimbledon_featured_matches/player_in_match_Wimbledon_featured_matches.json",
+    "lr_result_data_path": "data/Wimbledon_featured_matches/Standard_Training_Data_Wimbledon_featured_matches_match_id_win_pred.csv",
+    "lr_v1_result_data_path": "data/Wimbledon_featured_matches/match_performance_Wimbledon_featured_matches.csv"
+}

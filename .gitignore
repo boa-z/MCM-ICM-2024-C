@@ -1,0 +1,19 @@
+.DS_Store
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# IDE metadata
+.idea/
+__pycache__/
+
+# 图像请按需生成，就不要上传了
+.png
+
+.pkl
